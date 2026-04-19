@@ -1,15 +1,15 @@
-# <!=Copyright (C) 2022 Blossom Themes
+# <!=Copyright (C) 2026 Blossom Themes
 # This file is distributed under the GNU General Public License v3 or later.=!>
 msgid ""
 msgstr ""
-"Project-Id-Version: Blossom Mommy Blog 1.1.0\n"
+"Project-Id-Version: Blossom Mommy Blog 1.1.2\n"
 "Report-Msgid-Bugs-To: "
 "https://wordpress.org/support/theme/blossom-mommy-blog\n"
-"POT-Creation-Date: 2022-07-13 11:51:45+00:00\n"
+"POT-Creation-Date: 2026-04-06 07:55:07+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -23,129 +23,129 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-Bookmarks: \n"
 "X-Textdomain-Support: yes\n"
-"X-Generator: grunt-wp-i18n 1.0.3\n"
+"X-Generator: grunt-wp-i18n 1.0.4\n"
 
-#: functions.php:106
+#: functions.php:118
 msgid "Demo & Documentation "
 msgstr ""
 
-#: functions.php:121
+#: functions.php:133
 msgid "%1$sDemo Link:%2$s %3$sClick here.%4$s"
 msgstr ""
 
-#: functions.php:123
+#: functions.php:135
 msgid "%1$sDocumentation Link:%2$s %3$sClick here.%4$s"
 msgstr ""
 
-#: functions.php:139
+#: functions.php:151
 msgid "Typography"
 msgstr ""
 
-#: functions.php:159
+#: functions.php:171
 msgid "Primary Font"
 msgstr ""
 
-#: functions.php:160
+#: functions.php:172
 msgid "Primary font of the site."
 msgstr ""
 
-#: functions.php:181
+#: functions.php:193
 msgid "Secondary Font"
 msgstr ""
 
-#: functions.php:182
+#: functions.php:194
 msgid "Secondary font of the site."
 msgstr ""
 
-#: functions.php:203
+#: functions.php:215
 msgid "Font Size"
 msgstr ""
 
-#: functions.php:204
+#: functions.php:216
 msgid "Change the font size of your site."
 msgstr ""
 
-#: functions.php:228
+#: functions.php:240
 msgid "Load Google Fonts Locally"
 msgstr ""
 
-#: functions.php:229
+#: functions.php:241
 msgid ""
 "Enable to load google fonts from your own server instead from google's CDN. "
 "This solves privacy concerns with Google's CDN and their sometimes "
 "less-than-transparent policies."
 msgstr ""
 
-#: functions.php:248
+#: functions.php:260
 msgid "Preload Local Fonts"
 msgstr ""
 
-#: functions.php:249
+#: functions.php:261
 msgid "Preloading Google fonts will speed up your website speed."
 msgstr ""
 
-#: functions.php:257
+#: functions.php:269
 msgid "Click the button to reset the local fonts cache"
 msgstr ""
 
-#: functions.php:259
+#: functions.php:271
 msgid "Flush Local Font Files"
 msgstr ""
 
-#: functions.php:273
+#: functions.php:285
 msgid "Flush Local Fonts Cache"
 msgstr ""
 
-#: functions.php:294
+#: functions.php:306
 msgid "Primary Color"
 msgstr ""
 
-#: functions.php:295
+#: functions.php:307
 msgid "Primary color of the theme."
 msgstr ""
 
-#: functions.php:316
+#: functions.php:328
 msgid "Slider Layout"
 msgstr ""
 
-#: functions.php:337
+#: functions.php:349
 msgid "Slider Layouts"
 msgstr ""
 
-#: functions.php:338
+#: functions.php:350
 msgid "This is the slider layouts for your blog."
 msgstr ""
 
-#: functions.php:351
+#: functions.php:363
 msgid "Home Page Layout"
 msgstr ""
 
-#: functions.php:372
+#: functions.php:384
 msgid "Home Page Layouts"
 msgstr ""
 
-#: functions.php:373
+#: functions.php:385
 msgid "This is the layout for blog index page."
 msgstr ""
 
-#: functions.php:545
+#: functions.php:557
 #. translators: used between list items, there is a space after the comma
 msgid "Read More"
 msgstr ""
 
-#: functions.php:960
+#: functions.php:972
 msgid " Blossom Mommy Blog | Developed By "
 msgstr ""
 
-#: functions.php:961
+#: functions.php:973
 msgid " Blossom Themes"
 msgstr ""
 
-#: functions.php:963
+#: functions.php:975
 msgid " Powered by %s"
 msgstr ""
 
-#: functions.php:963
+#: functions.php:975
 msgid "https://wordpress.org/"
 msgstr ""
 
@@ -196,7 +196,7 @@ msgstr ""
 msgid "https://blossomthemes.com/"
 msgstr ""
 
-#: functions.php:591
+#: functions.php:603
 #. Translators: If there are characters in your language that are not supported
 #. by respective fonts, translate this to 'off'. Do not translate into your own
 #. language.
@@ -204,12 +204,12 @@ msgctxt "Primary Font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:592
+#: functions.php:604
 msgctxt "Secondary Font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:593
+#: functions.php:605
 msgctxt "Site Title Font: on or off"
 msgid "on"
 msgstr ""
